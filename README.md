@@ -24,5 +24,3 @@ Once the model is trained and evaluated, it can be deployed for real-time classi
 One potential future enhancement is creating an application where users can upload job descriptions and receive a classification of whether the job posting is fraudulent, along with a probability score. Additionally, further improvements can be made by exploring feature selection techniques and developing an app for users to classify job descriptions using the machine learning model.
 
 Feel free to explore the code, provide feedback, and contribute to further improving the fraudulent job posting prediction model.
-
-For any questions or inquiries, please contact Charmi Daftari at charmidaftari5@gmail.com.
